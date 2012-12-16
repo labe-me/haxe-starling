@@ -1,7 +1,7 @@
 haxe-starling
 =============
 
-  haxelib install starling https://github.com/labe-me/haxe-starling haxelib
+  haxelib git starling https://github.com/labe-me/haxe-starling haxelib
 
 Or
 
