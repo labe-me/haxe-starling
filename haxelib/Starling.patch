@@ -1,0 +1,4 @@
+-starling.core.RenderSupport.clear
+-starling.core.Starling.context
+-starling.core.Starling.juggler
+-starling.core.Starling.contentScaleFactor

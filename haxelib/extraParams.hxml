@@ -1,0 +1,2 @@
+-swf-lib Starling.swf
+--macro patchTypes('Starling.patch')

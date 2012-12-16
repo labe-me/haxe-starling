@@ -1,0 +1,3 @@
+[submodule "starling"]
+	path = starling
+	url = https://github.com/PrimaryFeather/Starling-Framework
