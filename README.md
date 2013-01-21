@@ -13,4 +13,4 @@ Or
 
 Warning: A bug in haxe SVN prevents the usage of this library with -debug flag. The bug will soon be resolved (http://code.google.com/p/haxe/issues/detail?id=1321).
 
-Warning: A bug in haxe SVN seems to mess extraParams.hxml multiple -swf-lib, you may have to add **-swf-lib Starling.swf** to your compilation arguments. The bug will soon be resolved (bug not filled yet).
+Warning: A bug in haxe SVN seems to mess extraParams.hxml multiple -swf-lib, you may have to add **-swf-lib Starling.swf** to your compilation arguments. The bug will soon be resolved.
