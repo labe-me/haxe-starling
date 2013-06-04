@@ -1,0 +1,8 @@
+{
+	"name":"starling",
+	"url":"https://github.com/labe-me/haxe-starling",
+	"license":"MIT",
+	"tags":["flash"],
+	"description":"Starling",
+	"version":"1.2.99"
+}
