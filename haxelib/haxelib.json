@@ -4,5 +4,7 @@
 	"license":"MIT",
 	"tags":["flash"],
 	"description":"Starling",
-	"version":"1.2.99"
+	"version":"1.2.99",
+    "contributors":["Laurent Bedubourg"],
+    "releasenote":"See log"
 }
